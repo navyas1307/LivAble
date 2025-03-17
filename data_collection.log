@@ -1,0 +1,868 @@
+2025-03-13 01:31:14,792 - ERROR - Failed to load world data: [Errno 2] No such file or directory: 'data\\world_data_with_scores (1).csv'
+2025-03-13 01:32:20,960 - ERROR - Failed to load world data: [Errno 2] No such file or directory: 'data/world_data_with_scores (1).csv'
+2025-03-13 01:34:03,033 - INFO - Loaded 187 countries from world data
+2025-03-13 01:35:11,673 - INFO - Loaded 187 countries from world data
+2025-03-13 01:35:11,889 - ERROR - Error processing results for Rwanda: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,891 - ERROR - Error processing results for Tunisia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,892 - ERROR - Error processing results for China: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,893 - ERROR - Error processing results for Chad: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,893 - ERROR - Error processing results for Russia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,895 - ERROR - Error processing results for Guyana: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,896 - ERROR - Error processing results for Trinidad and Tobago: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,897 - ERROR - Error processing results for Malta: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,898 - ERROR - Error processing results for Central African Republic: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,899 - ERROR - Error processing results for Romania: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,902 - ERROR - Error processing results for Guinea-Bissau: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,903 - ERROR - Error processing results for Tonga: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,904 - ERROR - Error processing results for Mali: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,905 - ERROR - Error processing results for Cape Verde: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,906 - ERROR - Error processing results for Republic of the Congo: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,908 - ERROR - Error processing results for Guinea: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,909 - ERROR - Error processing results for Togo: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,911 - ERROR - Error processing results for Maldives: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,914 - ERROR - Error processing results for Canada: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,915 - ERROR - Error processing results for Angola: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,916 - ERROR - Error processing results for Republic of Ireland: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,918 - ERROR - Error processing results for Guatemala: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,919 - ERROR - Error processing results for The Gambia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,919 - ERROR - Error processing results for Malaysia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,920 - ERROR - Error processing results for Cameroon: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,921 - ERROR - Error processing results for Qatar: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,922 - ERROR - Error processing results for Grenada: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,923 - ERROR - Error processing results for The Bahamas: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,925 - ERROR - Error processing results for Malawi: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,926 - ERROR - Error processing results for Cambodia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,928 - ERROR - Error processing results for Portugal: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,929 - ERROR - Error processing results for Greece: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,931 - ERROR - Error processing results for Thailand: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,933 - ERROR - Error processing results for Madagascar: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,934 - ERROR - Error processing results for Burundi: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,935 - ERROR - Error processing results for Poland: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,937 - ERROR - Error processing results for Ghana: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,938 - ERROR - Error processing results for Tanzania: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,938 - ERROR - Error processing results for Luxembourg: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,942 - ERROR - Error processing results for Burkina Faso: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,943 - ERROR - Error processing results for Philippines: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,944 - ERROR - Error processing results for Germany: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,945 - ERROR - Error processing results for Tajikistan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,946 - ERROR - Error processing results for Lithuania: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,946 - ERROR - Error processing results for Bulgaria: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,948 - ERROR - Error processing results for Peru: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,949 - ERROR - Error processing results for Georgia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,949 - ERROR - Error processing results for Syria: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,951 - ERROR - Error processing results for Liechtenstein: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,951 - ERROR - Error processing results for Brunei: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,952 - ERROR - Error processing results for Paraguay: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,953 - ERROR - Error processing results for Gabon: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,954 - ERROR - Error processing results for Switzerland: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,959 - ERROR - Error processing results for Libya: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,960 - ERROR - Error processing results for Brazil: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,960 - ERROR - Error processing results for Algeria: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,961 - ERROR - Error processing results for Albania: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,962 - ERROR - Error processing results for Sweden: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,963 - ERROR - Error processing results for Papua New Guinea: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,964 - ERROR - Error processing results for France: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,965 - ERROR - Error processing results for Liberia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,966 - ERROR - Error processing results for Botswana: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,968 - ERROR - Error processing results for Panama: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,969 - ERROR - Error processing results for Bosnia and Herzegovina: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,970 - ERROR - Error processing results for Finland: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,971 - ERROR - Error processing results for Suriname: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,972 - ERROR - Error processing results for Lesotho: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,973 - ERROR - Error processing results for Bolivia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,974 - ERROR - Error processing results for Palau: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,975 - ERROR - Error processing results for Fiji: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,976 - ERROR - Error processing results for Sudan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,977 - ERROR - Error processing results for Lebanon: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,978 - ERROR - Error processing results for Bhutan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,979 - ERROR - Error processing results for Pakistan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,980 - ERROR - Error processing results for Federated States of Micronesia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,981 - ERROR - Error processing results for Sri Lanka: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,983 - ERROR - Error processing results for Latvia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,984 - ERROR - Error processing results for Marshall Islands: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,985 - ERROR - Error processing results for Benin: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,986 - ERROR - Error processing results for Haiti: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,987 - ERROR - Error processing results for Spain: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,987 - ERROR - Error processing results for Oman: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,991 - ERROR - Error processing results for Ethiopia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,992 - ERROR - Error processing results for Laos: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,993 - ERROR - Error processing results for Belize: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,994 - ERROR - Error processing results for Andorra: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,995 - ERROR - Error processing results for Norway: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,995 - ERROR - Error processing results for Belgium: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,996 - ERROR - Error processing results for Estonia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,997 - ERROR - Error processing results for South Sudan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,997 - ERROR - Error processing results for Kyrgyzstan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:11,999 - ERROR - Error processing results for Belarus: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,000 - ERROR - Error processing results for North Korea: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,001 - ERROR - Error processing results for Eritrea: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,002 - ERROR - Error processing results for Afghanistan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,003 - ERROR - Error processing results for South Korea: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,004 - ERROR - Error processing results for Kuwait: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,005 - ERROR - Error processing results for Barbados: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,005 - ERROR - Error processing results for Nigeria: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,006 - ERROR - Error processing results for Equatorial Guinea: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,007 - ERROR - Error processing results for South Africa: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,008 - ERROR - Error processing results for Kiribati: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,009 - ERROR - Error processing results for Bangladesh: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,012 - ERROR - Error processing results for Zimbabwe: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,025 - ERROR - Error processing results for Somalia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,034 - ERROR - Error processing results for Niger: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,048 - ERROR - Error processing results for El Salvador: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,050 - ERROR - Error processing results for Kenya: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,051 - ERROR - Error processing results for Bahrain: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,052 - ERROR - Error processing results for Zambia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,053 - ERROR - Error processing results for Nicaragua: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,054 - ERROR - Error processing results for Azerbaijan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,054 - ERROR - Error processing results for Egypt: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,055 - ERROR - Error processing results for Solomon Islands: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,056 - ERROR - Error processing results for Kazakhstan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,057 - ERROR - Error processing results for Austria: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,065 - ERROR - Error processing results for Yemen: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,067 - ERROR - Error processing results for New Zealand: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,071 - ERROR - Error processing results for Ecuador: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,073 - ERROR - Error processing results for Slovenia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,073 - ERROR - Error processing results for Jordan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,074 - ERROR - Error processing results for Australia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,075 - ERROR - Error processing results for Vietnam: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,076 - ERROR - Error processing results for Netherlands: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,076 - ERROR - Error processing results for East Timor: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,078 - ERROR - Error processing results for Slovakia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,078 - ERROR - Error processing results for Japan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,079 - ERROR - Error processing results for Venezuela: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,080 - ERROR - Error processing results for Nepal: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,081 - ERROR - Error processing results for Dominican Republic: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,082 - ERROR - Error processing results for Singapore: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,083 - ERROR - Error processing results for Jamaica: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,084 - ERROR - Error processing results for Vanuatu: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,085 - ERROR - Error processing results for Namibia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,085 - ERROR - Error processing results for Dominica: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,086 - ERROR - Error processing results for Sierra Leone: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,087 - ERROR - Error processing results for Ivory Coast: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,088 - ERROR - Error processing results for Uzbekistan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,088 - ERROR - Error processing results for Myanmar: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,090 - ERROR - Error processing results for Djibouti: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,095 - ERROR - Error processing results for Seychelles: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,097 - ERROR - Error processing results for Italy: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,103 - ERROR - Error processing results for Denmark: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,104 - ERROR - Error processing results for Mozambique: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,105 - ERROR - Error processing results for Uruguay: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,106 - ERROR - Error processing results for Serbia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,107 - ERROR - Error processing results for Israel: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,108 - ERROR - Error processing results for United States: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,109 - ERROR - Error processing results for Morocco: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,110 - ERROR - Error processing results for Democratic Republic of the Congo: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,111 - ERROR - Error processing results for Senegal: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,112 - ERROR - Error processing results for Iraq: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,112 - ERROR - Error processing results for Montenegro: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,113 - ERROR - Error processing results for United Kingdom: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,114 - ERROR - Error processing results for Czech Republic: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,115 - ERROR - Error processing results for Saudi Arabia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,115 - ERROR - Error processing results for Iran: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,116 - ERROR - Error processing results for Armenia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,117 - ERROR - Error processing results for United Arab Emirates: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,118 - ERROR - Error processing results for San Marino: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,119 - ERROR - Error processing results for Mongolia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,119 - ERROR - Error processing results for Cyprus: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,121 - ERROR - Error processing results for Indonesia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,122 - ERROR - Error processing results for Argentina: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,124 - ERROR - Error processing results for Ukraine: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,124 - ERROR - Error processing results for Moldova: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,125 - ERROR - Error processing results for Antigua and Barbuda: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,126 - ERROR - Error processing results for Cuba: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,127 - ERROR - Error processing results for India: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,128 - ERROR - Error processing results for Samoa: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,129 - ERROR - Error processing results for Uganda: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,129 - ERROR - Error processing results for Mexico: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,130 - ERROR - Error processing results for Croatia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,130 - ERROR - Error processing results for Saint Vincent and the Grenadines: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,131 - ERROR - Error processing results for Iceland: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,132 - ERROR - Error processing results for Costa Rica: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,133 - ERROR - Error processing results for Mauritius: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,134 - ERROR - Error processing results for Turkmenistan: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,134 - ERROR - Error processing results for Hungary: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,136 - ERROR - Error processing results for Saint Lucia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,137 - ERROR - Error processing results for Chile: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,137 - ERROR - Error processing results for Comoros: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,139 - ERROR - Error processing results for Turkey: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,139 - ERROR - Error processing results for Mauritania: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,140 - ERROR - Error processing results for Saint Kitts and Nevis: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,141 - ERROR - Error processing results for Honduras: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,142 - ERROR - Error processing results for Colombia: Required configuration setting 'client_id' missing. 
+This setting can be provided in a praw.ini file, as a keyword argument to the Reddit class constructor, or as an environment variable.
+2025-03-13 01:35:12,148 - WARNING - No data collected!
+2025-03-13 01:35:49,986 - INFO - Loaded 187 countries from world data
+2025-03-13 01:38:13,982 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Algeria: object has no attribute 'description'
+2025-03-13 01:38:17,919 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Andorra: object has no attribute 'description'
+2025-03-13 01:38:22,025 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Albania: object has no attribute 'description'
+2025-03-13 01:38:24,876 - INFO - Fetched 58 posts for Algeria from all sources
+2025-03-13 01:38:28,638 - INFO - Fetched 56 posts for Andorra from all sources
+2025-03-13 01:38:30,539 - INFO - Fetched 57 posts for Albania from all sources
+2025-03-13 01:38:50,890 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Afghanistan: object has no attribute 'description'
+2025-03-13 01:39:04,049 - INFO - Fetched 60 posts for Afghanistan from all sources
+2025-03-13 01:39:47,842 - WARNING - Error fetching news data from guardian for Antigua and Barbuda: URL can't contain control characters. '/rss/search?q=Antigua and Barbuda+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:39:47,911 - WARNING - Error fetching news data from reuters for Antigua and Barbuda: URL can't contain control characters. '/rss/search?q=Antigua and Barbuda+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:39:47,973 - WARNING - Error fetching news data from bbc for Antigua and Barbuda: URL can't contain control characters. '/rss/search?q=Antigua and Barbuda+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:39:50,097 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Antigua and Barbuda: object has no attribute 'description'
+2025-03-13 01:40:04,429 - INFO - Fetched 28 posts for Antigua and Barbuda from all sources
+2025-03-13 01:40:57,052 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Angola: object has no attribute 'description'
+2025-03-13 01:41:09,468 - INFO - Fetched 58 posts for Angola from all sources
+2025-03-13 01:41:13,462 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Argentina: object has no attribute 'description'
+2025-03-13 01:41:28,833 - INFO - Fetched 59 posts for Argentina from all sources
+2025-03-13 01:41:29,631 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Armenia: object has no attribute 'description'
+2025-03-13 01:41:42,169 - INFO - Fetched 58 posts for Armenia from all sources
+2025-03-13 01:42:58,268 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Australia: object has no attribute 'description'
+2025-03-13 01:43:13,174 - INFO - Fetched 61 posts for Australia from all sources
+2025-03-13 01:43:40,285 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Azerbaijan: object has no attribute 'description'
+2025-03-13 01:43:49,383 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Austria: object has no attribute 'description'
+2025-03-13 01:43:56,304 - INFO - Fetched 59 posts for Azerbaijan from all sources
+2025-03-13 01:44:01,884 - INFO - Fetched 56 posts for Austria from all sources
+2025-03-13 01:44:06,759 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Bahrain: object has no attribute 'description'
+2025-03-13 01:44:20,464 - INFO - Fetched 58 posts for Bahrain from all sources
+2025-03-13 01:44:56,222 - WARNING - Retrying due to ChunkedEncodingError(ProtocolError('Connection broken: IncompleteRead(33465 bytes read, 65503 more expected)', IncompleteRead(33465 bytes read, 65503 more expected))) status: GET https://oauth.reddit.com/comments/1e6uohh/
+2025-03-13 01:45:34,799 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Bangladesh: object has no attribute 'description'
+2025-03-13 01:45:53,115 - INFO - Fetched 59 posts for Bangladesh from all sources
+2025-03-13 01:46:36,104 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Barbados: object has no attribute 'description'
+2025-03-13 01:46:49,359 - INFO - Fetched 58 posts for Barbados from all sources
+2025-03-13 01:46:53,460 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Belarus: object has no attribute 'description'
+2025-03-13 01:47:01,208 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Belgium: object has no attribute 'description'
+2025-03-13 01:47:08,258 - INFO - Fetched 59 posts for Belarus from all sources
+2025-03-13 01:47:15,547 - INFO - Fetched 59 posts for Belgium from all sources
+2025-03-13 01:48:16,297 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Belize: object has no attribute 'description'
+2025-03-13 01:48:29,088 - INFO - Fetched 55 posts for Belize from all sources
+2025-03-13 01:49:12,529 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Benin: object has no attribute 'description'
+2025-03-13 01:49:28,233 - INFO - Fetched 58 posts for Benin from all sources
+2025-03-13 01:49:31,291 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Bhutan: object has no attribute 'description'
+2025-03-13 01:49:42,370 - WARNING - Error fetching news data from guardian for Bosnia and Herzegovina: URL can't contain control characters. '/rss/search?q=Bosnia and Herzegovina+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:49:42,420 - WARNING - Error fetching news data from reuters for Bosnia and Herzegovina: URL can't contain control characters. '/rss/search?q=Bosnia and Herzegovina+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:49:42,477 - WARNING - Error fetching news data from bbc for Bosnia and Herzegovina: URL can't contain control characters. '/rss/search?q=Bosnia and Herzegovina+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:49:43,659 - INFO - Fetched 58 posts for Bhutan from all sources
+2025-03-13 01:49:44,144 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Bosnia and Herzegovina: object has no attribute 'description'
+2025-03-13 01:49:49,326 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Bolivia: object has no attribute 'description'
+2025-03-13 01:50:00,634 - INFO - Fetched 27 posts for Bosnia and Herzegovina from all sources
+2025-03-13 01:50:03,707 - INFO - Fetched 58 posts for Bolivia from all sources
+2025-03-13 01:51:39,315 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Botswana: object has no attribute 'description'
+2025-03-13 01:51:52,616 - INFO - Fetched 57 posts for Botswana from all sources
+2025-03-13 01:52:33,689 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Brunei: object has no attribute 'description'
+2025-03-13 01:52:34,573 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Brazil: object has no attribute 'description'
+2025-03-13 01:52:40,734 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Bulgaria: object has no attribute 'description'
+2025-03-13 01:52:50,123 - INFO - Fetched 58 posts for Brunei from all sources
+2025-03-13 01:52:55,340 - INFO - Fetched 59 posts for Bulgaria from all sources
+2025-03-13 01:53:04,873 - INFO - Fetched 60 posts for Brazil from all sources
+2025-03-13 01:53:05,112 - WARNING - Error fetching news data from guardian for Burkina Faso: URL can't contain control characters. '/rss/search?q=Burkina Faso+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:53:05,157 - WARNING - Error fetching news data from reuters for Burkina Faso: URL can't contain control characters. '/rss/search?q=Burkina Faso+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:53:05,206 - WARNING - Error fetching news data from bbc for Burkina Faso: URL can't contain control characters. '/rss/search?q=Burkina Faso+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:53:06,833 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Burkina Faso: object has no attribute 'description'
+2025-03-13 01:53:22,524 - INFO - Fetched 26 posts for Burkina Faso from all sources
+2025-03-13 01:55:03,827 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Burundi: object has no attribute 'description'
+2025-03-13 01:55:18,263 - INFO - Fetched 58 posts for Burundi from all sources
+2025-03-13 01:55:27,610 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Cambodia: object has no attribute 'description'
+2025-03-13 01:55:39,459 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Cameroon: object has no attribute 'description'
+2025-03-13 01:55:42,321 - INFO - Fetched 59 posts for Cambodia from all sources
+2025-03-13 01:55:52,594 - INFO - Fetched 58 posts for Cameroon from all sources
+2025-03-13 01:56:15,527 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Canada: object has no attribute 'description'
+2025-03-13 01:56:30,726 - WARNING - Error fetching news data from guardian for Cape Verde: URL can't contain control characters. '/rss/search?q=Cape Verde+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:56:30,765 - WARNING - Error fetching news data from reuters for Cape Verde: URL can't contain control characters. '/rss/search?q=Cape Verde+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:56:30,824 - WARNING - Error fetching news data from bbc for Cape Verde: URL can't contain control characters. '/rss/search?q=Cape Verde+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:56:32,197 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Cape Verde: object has no attribute 'description'
+2025-03-13 01:56:45,739 - INFO - Fetched 68 posts for Canada from all sources
+2025-03-13 01:56:45,989 - WARNING - Error fetching news data from guardian for Central African Republic: URL can't contain control characters. '/rss/search?q=Central African Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:56:46,034 - WARNING - Error fetching news data from reuters for Central African Republic: URL can't contain control characters. '/rss/search?q=Central African Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:56:46,080 - WARNING - Error fetching news data from bbc for Central African Republic: URL can't contain control characters. '/rss/search?q=Central African Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 01:56:47,166 - INFO - Fetched 28 posts for Cape Verde from all sources
+2025-03-13 01:56:47,840 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Central African Republic: object has no attribute 'description'
+2025-03-13 01:57:02,736 - INFO - Fetched 28 posts for Central African Republic from all sources
+2025-03-13 01:58:06,719 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Chad: object has no attribute 'description'
+2025-03-13 01:58:19,518 - INFO - Fetched 54 posts for Chad from all sources
+2025-03-13 01:59:22,858 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Chile: object has no attribute 'description'
+2025-03-13 01:59:35,285 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for China: object has no attribute 'description'
+2025-03-13 01:59:35,777 - INFO - Fetched 58 posts for Chile from all sources
+2025-03-13 01:59:45,737 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Colombia: object has no attribute 'description'
+2025-03-13 01:59:58,029 - INFO - Fetched 58 posts for Colombia from all sources
+2025-03-13 02:00:26,849 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Comoros: object has no attribute 'description'
+2025-03-13 02:00:40,312 - INFO - Fetched 58 posts for Comoros from all sources
+2025-03-13 02:01:15,479 - WARNING - Error fetching news data from guardian for Costa Rica: URL can't contain control characters. '/rss/search?q=Costa Rica+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:01:15,525 - WARNING - Error fetching news data from reuters for Costa Rica: URL can't contain control characters. '/rss/search?q=Costa Rica+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:01:15,574 - WARNING - Error fetching news data from bbc for Costa Rica: URL can't contain control characters. '/rss/search?q=Costa Rica+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:01:17,316 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Costa Rica: object has no attribute 'description'
+2025-03-13 02:01:19,577 - INFO - Fetched 107 posts for China from all sources
+2025-03-13 02:01:33,130 - INFO - Fetched 28 posts for Costa Rica from all sources
+2025-03-13 02:02:17,190 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Croatia: object has no attribute 'description'
+2025-03-13 02:02:29,921 - INFO - Fetched 57 posts for Croatia from all sources
+2025-03-13 02:02:58,105 - WARNING - Error fetching news data from guardian for Czech Republic: URL can't contain control characters. '/rss/search?q=Czech Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:02:58,117 - WARNING - Error fetching news data from reuters for Czech Republic: URL can't contain control characters. '/rss/search?q=Czech Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:02:58,133 - WARNING - Error fetching news data from bbc for Czech Republic: URL can't contain control characters. '/rss/search?q=Czech Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:02:59,429 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Czech Republic: object has no attribute 'description'
+2025-03-13 02:03:12,825 - INFO - Fetched 28 posts for Czech Republic from all sources
+2025-03-13 02:03:25,553 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Cuba: object has no attribute 'description'
+2025-03-13 02:03:30,993 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Cyprus: object has no attribute 'description'
+2025-03-13 02:03:37,395 - INFO - Fetched 58 posts for Cuba from all sources
+2025-03-13 02:03:42,630 - INFO - Fetched 58 posts for Cyprus from all sources
+2025-03-13 02:03:46,129 - WARNING - Error fetching news data from guardian for Democratic Republic of the Congo: URL can't contain control characters. '/rss/search?q=Democratic Republic of the Congo+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:03:46,144 - WARNING - Error fetching news data from reuters for Democratic Republic of the Congo: URL can't contain control characters. '/rss/search?q=Democratic Republic of the Congo+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:03:46,160 - WARNING - Error fetching news data from bbc for Democratic Republic of the Congo: URL can't contain control characters. '/rss/search?q=Democratic Republic of the Congo+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:03:47,274 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Democratic Republic of the Congo: object has no attribute 'description'
+2025-03-13 02:04:02,047 - INFO - Fetched 31 posts for Democratic Republic of the Congo from all sources
+2025-03-13 02:05:16,786 - WARNING - Error fetching news data from guardian for Dominican Republic: URL can't contain control characters. '/rss/search?q=Dominican Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:05:16,802 - WARNING - Error fetching news data from reuters for Dominican Republic: URL can't contain control characters. '/rss/search?q=Dominican Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:05:16,816 - WARNING - Error fetching news data from bbc for Dominican Republic: URL can't contain control characters. '/rss/search?q=Dominican Republic+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:05:17,839 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Dominican Republic: object has no attribute 'description'
+2025-03-13 02:05:29,238 - INFO - Fetched 28 posts for Dominican Republic from all sources
+2025-03-13 02:05:33,920 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Djibouti: object has no attribute 'description'
+2025-03-13 02:05:40,182 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Dominica: object has no attribute 'description'
+2025-03-13 02:05:45,015 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Denmark: object has no attribute 'description'
+2025-03-13 02:05:46,418 - INFO - Fetched 58 posts for Djibouti from all sources
+2025-03-13 02:05:53,445 - INFO - Fetched 58 posts for Dominica from all sources
+2025-03-13 02:05:56,943 - INFO - Fetched 59 posts for Denmark from all sources
+2025-03-13 02:06:43,912 - WARNING - Error fetching news data from guardian for East Timor: URL can't contain control characters. '/rss/search?q=East Timor+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:06:43,929 - WARNING - Error fetching news data from reuters for East Timor: URL can't contain control characters. '/rss/search?q=East Timor+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:06:43,943 - WARNING - Error fetching news data from bbc for East Timor: URL can't contain control characters. '/rss/search?q=East Timor+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:06:45,337 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for East Timor: object has no attribute 'description'
+2025-03-13 02:06:56,388 - INFO - Fetched 28 posts for East Timor from all sources
+2025-03-13 02:07:22,195 - WARNING - Error fetching news data from guardian for El Salvador: URL can't contain control characters. '/rss/search?q=El Salvador+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:07:22,208 - WARNING - Error fetching news data from reuters for El Salvador: URL can't contain control characters. '/rss/search?q=El Salvador+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:07:22,224 - WARNING - Error fetching news data from bbc for El Salvador: URL can't contain control characters. '/rss/search?q=El Salvador+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:07:23,479 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for El Salvador: object has no attribute 'description'
+2025-03-13 02:07:37,067 - INFO - Fetched 29 posts for El Salvador from all sources
+2025-03-13 02:07:46,375 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Ecuador: object has no attribute 'description'
+2025-03-13 02:07:56,141 - WARNING - Error fetching news data from guardian for Equatorial Guinea: URL can't contain control characters. '/rss/search?q=Equatorial Guinea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:07:56,172 - WARNING - Error fetching news data from reuters for Equatorial Guinea: URL can't contain control characters. '/rss/search?q=Equatorial Guinea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:07:56,187 - WARNING - Error fetching news data from bbc for Equatorial Guinea: URL can't contain control characters. '/rss/search?q=Equatorial Guinea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:07:57,601 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Equatorial Guinea: object has no attribute 'description'
+2025-03-13 02:07:58,850 - INFO - Fetched 58 posts for Ecuador from all sources
+2025-03-13 02:08:10,692 - INFO - Fetched 28 posts for Equatorial Guinea from all sources
+2025-03-13 02:08:14,720 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Egypt: object has no attribute 'description'
+2025-03-13 02:08:27,711 - INFO - Fetched 59 posts for Egypt from all sources
+2025-03-13 02:09:06,737 - WARNING - Error fetching news data from guardian for Federated States of Micronesia: URL can't contain control characters. '/rss/search?q=Federated States of Micronesia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:09:06,751 - WARNING - Error fetching news data from reuters for Federated States of Micronesia: URL can't contain control characters. '/rss/search?q=Federated States of Micronesia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:09:06,766 - WARNING - Error fetching news data from bbc for Federated States of Micronesia: URL can't contain control characters. '/rss/search?q=Federated States of Micronesia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:09:08,225 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Federated States of Micronesia: object has no attribute 'description'
+2025-03-13 02:09:20,704 - INFO - Fetched 28 posts for Federated States of Micronesia from all sources
+2025-03-13 02:09:52,987 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Eritrea: object has no attribute 'description'
+2025-03-13 02:10:06,850 - INFO - Fetched 58 posts for Eritrea from all sources
+2025-03-13 02:10:20,469 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Estonia: object has no attribute 'description'
+2025-03-13 02:10:25,402 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Ethiopia: object has no attribute 'description'
+2025-03-13 02:10:33,414 - INFO - Fetched 57 posts for Estonia from all sources
+2025-03-13 02:10:42,014 - INFO - Fetched 59 posts for Ethiopia from all sources
+2025-03-13 02:11:30,972 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Fiji: object has no attribute 'description'
+2025-03-13 02:11:44,727 - INFO - Fetched 57 posts for Fiji from all sources
+2025-03-13 02:12:39,694 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Finland: object has no attribute 'description'
+2025-03-13 02:12:40,297 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Gabon: object has no attribute 'description'
+2025-03-13 02:12:51,840 - INFO - Fetched 58 posts for Finland from all sources
+2025-03-13 02:12:52,715 - INFO - Fetched 58 posts for Gabon from all sources
+2025-03-13 02:13:14,550 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for France: object has no attribute 'description'
+2025-03-13 02:13:34,719 - INFO - Fetched 63 posts for France from all sources
+2025-03-13 02:14:24,011 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Georgia: object has no attribute 'description'
+2025-03-13 02:14:37,427 - INFO - Fetched 60 posts for Georgia from all sources
+2025-03-13 02:15:12,639 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Ghana: object has no attribute 'description'
+2025-03-13 02:15:16,315 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Germany: object has no attribute 'description'
+2025-03-13 02:15:24,309 - INFO - Fetched 58 posts for Ghana from all sources
+2025-03-13 02:15:34,734 - INFO - Fetched 63 posts for Germany from all sources
+2025-03-13 02:16:06,678 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Greece: object has no attribute 'description'
+2025-03-13 02:16:19,179 - INFO - Fetched 59 posts for Greece from all sources
+2025-03-13 02:16:31,341 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Grenada: object has no attribute 'description'
+2025-03-13 02:16:42,272 - INFO - Fetched 55 posts for Grenada from all sources
+2025-03-13 02:17:44,801 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Guatemala: object has no attribute 'description'
+2025-03-13 02:17:52,658 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Guinea: object has no attribute 'description'
+2025-03-13 02:17:58,558 - INFO - Fetched 57 posts for Guatemala from all sources
+2025-03-13 02:18:07,382 - INFO - Fetched 60 posts for Guinea from all sources
+2025-03-13 02:18:13,929 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Guinea-Bissau: object has no attribute 'description'
+2025-03-13 02:18:24,938 - INFO - Fetched 58 posts for Guinea-Bissau from all sources
+2025-03-13 02:18:43,766 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Guyana: object has no attribute 'description'
+2025-03-13 02:18:55,875 - INFO - Fetched 57 posts for Guyana from all sources
+2025-03-13 02:20:25,488 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Haiti: object has no attribute 'description'
+2025-03-13 02:20:26,231 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Honduras: object has no attribute 'description'
+2025-03-13 02:20:39,374 - INFO - Fetched 58 posts for Haiti from all sources
+2025-03-13 02:20:39,573 - INFO - Fetched 58 posts for Honduras from all sources
+2025-03-13 02:20:49,169 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Hungary: object has no attribute 'description'
+2025-03-13 02:21:00,405 - INFO - Fetched 58 posts for Hungary from all sources
+2025-03-13 02:21:33,093 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Iceland: object has no attribute 'description'
+2025-03-13 02:21:44,503 - INFO - Fetched 58 posts for Iceland from all sources
+2025-03-13 02:23:07,278 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Indonesia: object has no attribute 'description'
+2025-03-13 02:23:15,389 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for India: object has no attribute 'description'
+2025-03-13 02:23:18,248 - INFO - Fetched 59 posts for Indonesia from all sources
+2025-03-13 02:23:43,433 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Iran: object has no attribute 'description'
+2025-03-13 02:23:46,386 - INFO - Fetched 70 posts for India from all sources
+2025-03-13 02:23:59,987 - INFO - Fetched 62 posts for Iran from all sources
+2025-03-13 02:24:20,484 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Iraq: object has no attribute 'description'
+2025-03-13 02:24:31,549 - INFO - Fetched 59 posts for Iraq from all sources
+2025-03-13 02:25:00,834 - WARNING - Error fetching news data from guardian for Ivory Coast: URL can't contain control characters. '/rss/search?q=Ivory Coast+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:25:00,846 - WARNING - Error fetching news data from reuters for Ivory Coast: URL can't contain control characters. '/rss/search?q=Ivory Coast+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:25:00,863 - WARNING - Error fetching news data from bbc for Ivory Coast: URL can't contain control characters. '/rss/search?q=Ivory Coast+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:25:02,296 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Ivory Coast: object has no attribute 'description'
+2025-03-13 02:25:14,274 - INFO - Fetched 27 posts for Ivory Coast from all sources
+2025-03-13 02:25:55,593 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Israel: object has no attribute 'description'
+2025-03-13 02:26:14,491 - INFO - Fetched 65 posts for Israel from all sources
+2025-03-13 02:26:18,692 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Italy: object has no attribute 'description'
+2025-03-13 02:26:33,806 - INFO - Fetched 59 posts for Italy from all sources
+2025-03-13 02:26:44,053 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Jamaica: object has no attribute 'description'
+2025-03-13 02:26:55,240 - INFO - Fetched 59 posts for Jamaica from all sources
+2025-03-13 02:27:46,546 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Japan: object has no attribute 'description'
+2025-03-13 02:28:09,523 - INFO - Fetched 66 posts for Japan from all sources
+2025-03-13 02:28:49,452 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Kazakhstan: object has no attribute 'description'
+2025-03-13 02:28:58,777 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Jordan: object has no attribute 'description'
+2025-03-13 02:29:00,421 - INFO - Fetched 58 posts for Kazakhstan from all sources
+2025-03-13 02:29:08,226 - INFO - Fetched 58 posts for Jordan from all sources
+2025-03-13 02:29:10,222 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Kenya: object has no attribute 'description'
+2025-03-13 02:29:20,977 - INFO - Fetched 60 posts for Kenya from all sources
+2025-03-13 02:30:04,704 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Kiribati: object has no attribute 'description'
+2025-03-13 02:30:17,875 - INFO - Fetched 57 posts for Kiribati from all sources
+2025-03-13 02:31:01,756 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Kuwait: object has no attribute 'description'
+2025-03-13 02:31:04,404 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Kyrgyzstan: object has no attribute 'description'
+2025-03-13 02:31:14,946 - INFO - Fetched 57 posts for Kuwait from all sources
+2025-03-13 02:31:16,059 - INFO - Fetched 57 posts for Kyrgyzstan from all sources
+2025-03-13 02:31:51,223 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Laos: object has no attribute 'description'
+2025-03-13 02:32:02,756 - INFO - Fetched 58 posts for Laos from all sources
+2025-03-13 02:32:41,383 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Latvia: object has no attribute 'description'
+2025-03-13 02:32:52,784 - INFO - Fetched 57 posts for Latvia from all sources
+2025-03-13 02:33:28,592 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Lebanon: object has no attribute 'description'
+2025-03-13 02:33:32,146 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Lesotho: object has no attribute 'description'
+2025-03-13 02:33:42,256 - INFO - Fetched 60 posts for Lebanon from all sources
+2025-03-13 02:33:43,522 - INFO - Fetched 56 posts for Lesotho from all sources
+2025-03-13 02:34:17,949 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Liberia: object has no attribute 'description'
+2025-03-13 02:34:30,393 - INFO - Fetched 58 posts for Liberia from all sources
+2025-03-13 02:34:58,520 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Libya: object has no attribute 'description'
+2025-03-13 02:35:09,955 - INFO - Fetched 57 posts for Libya from all sources
+2025-03-13 02:35:44,184 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Liechtenstein: object has no attribute 'description'
+2025-03-13 02:35:55,956 - INFO - Fetched 58 posts for Liechtenstein from all sources
+2025-03-13 02:36:01,020 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Lithuania: object has no attribute 'description'
+2025-03-13 02:36:14,589 - INFO - Fetched 58 posts for Lithuania from all sources
+2025-03-13 02:36:54,587 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Luxembourg: object has no attribute 'description'
+2025-03-13 02:37:05,409 - INFO - Fetched 58 posts for Luxembourg from all sources
+2025-03-13 02:37:30,234 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Madagascar: object has no attribute 'description'
+2025-03-13 02:37:41,595 - INFO - Fetched 57 posts for Madagascar from all sources
+2025-03-13 02:38:08,783 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Malawi: object has no attribute 'description'
+2025-03-13 02:38:20,186 - INFO - Fetched 58 posts for Malawi from all sources
+2025-03-13 02:38:31,982 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Malaysia: object has no attribute 'description'
+2025-03-13 02:38:45,735 - INFO - Fetched 59 posts for Malaysia from all sources
+2025-03-13 02:39:14,748 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Maldives: object has no attribute 'description'
+2025-03-13 02:39:27,619 - INFO - Fetched 58 posts for Maldives from all sources
+2025-03-13 02:39:53,003 - WARNING - Error fetching news data from guardian for Marshall Islands: URL can't contain control characters. '/rss/search?q=Marshall Islands+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:39:53,017 - WARNING - Error fetching news data from reuters for Marshall Islands: URL can't contain control characters. '/rss/search?q=Marshall Islands+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:39:53,033 - WARNING - Error fetching news data from bbc for Marshall Islands: URL can't contain control characters. '/rss/search?q=Marshall Islands+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:39:54,623 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Marshall Islands: object has no attribute 'description'
+2025-03-13 02:40:06,029 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Mali: object has no attribute 'description'
+2025-03-13 02:40:08,183 - INFO - Fetched 28 posts for Marshall Islands from all sources
+2025-03-13 02:40:19,916 - INFO - Fetched 58 posts for Mali from all sources
+2025-03-13 02:40:40,689 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Malta: object has no attribute 'description'
+2025-03-13 02:40:55,053 - INFO - Fetched 58 posts for Malta from all sources
+2025-03-13 02:41:37,121 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Mauritania: object has no attribute 'description'
+2025-03-13 02:41:50,180 - INFO - Fetched 57 posts for Mauritania from all sources
+2025-03-13 02:41:53,505 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Mauritius: object has no attribute 'description'
+2025-03-13 02:42:05,553 - INFO - Fetched 58 posts for Mauritius from all sources
+2025-03-13 02:43:00,782 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Mexico: object has no attribute 'description'
+2025-03-13 02:43:16,559 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Moldova: object has no attribute 'description'
+2025-03-13 02:43:20,321 - INFO - Fetched 65 posts for Mexico from all sources
+2025-03-13 02:43:28,193 - INFO - Fetched 58 posts for Moldova from all sources
+2025-03-13 02:43:53,284 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Mongolia: object has no attribute 'description'
+2025-03-13 02:44:04,995 - INFO - Fetched 57 posts for Mongolia from all sources
+2025-03-13 02:44:34,705 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Montenegro: object has no attribute 'description'
+2025-03-13 02:44:47,611 - INFO - Fetched 58 posts for Montenegro from all sources
+2025-03-13 02:45:22,319 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Morocco: object has no attribute 'description'
+2025-03-13 02:45:34,876 - INFO - Fetched 57 posts for Morocco from all sources
+2025-03-13 02:45:48,322 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Mozambique: object has no attribute 'description'
+2025-03-13 02:46:01,422 - INFO - Fetched 59 posts for Mozambique from all sources
+2025-03-13 02:46:37,085 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Myanmar: object has no attribute 'description'
+2025-03-13 02:46:49,528 - INFO - Fetched 59 posts for Myanmar from all sources
+2025-03-13 02:47:06,229 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Namibia: object has no attribute 'description'
+2025-03-13 02:47:17,504 - INFO - Fetched 58 posts for Namibia from all sources
+2025-03-13 02:47:38,828 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Nepal: object has no attribute 'description'
+2025-03-13 02:47:50,124 - INFO - Fetched 59 posts for Nepal from all sources
+2025-03-13 02:48:29,493 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Netherlands: object has no attribute 'description'
+2025-03-13 02:48:30,540 - WARNING - Error fetching news data from guardian for New Zealand: URL can't contain control characters. '/rss/search?q=New Zealand+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:48:30,555 - WARNING - Error fetching news data from reuters for New Zealand: URL can't contain control characters. '/rss/search?q=New Zealand+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:48:30,570 - WARNING - Error fetching news data from bbc for New Zealand: URL can't contain control characters. '/rss/search?q=New Zealand+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:48:31,730 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for New Zealand: object has no attribute 'description'
+2025-03-13 02:48:41,163 - INFO - Fetched 60 posts for Netherlands from all sources
+2025-03-13 02:48:43,451 - INFO - Fetched 28 posts for New Zealand from all sources
+2025-03-13 02:49:25,342 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Nicaragua: object has no attribute 'description'
+2025-03-13 02:49:36,119 - INFO - Fetched 58 posts for Nicaragua from all sources
+2025-03-13 02:49:55,683 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Niger: object has no attribute 'description'
+2025-03-13 02:50:13,529 - INFO - Fetched 59 posts for Niger from all sources
+2025-03-13 02:50:17,025 - WARNING - Error fetching news data from guardian for North Korea: URL can't contain control characters. '/rss/search?q=North Korea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:50:17,038 - WARNING - Error fetching news data from reuters for North Korea: URL can't contain control characters. '/rss/search?q=North Korea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:50:17,053 - WARNING - Error fetching news data from bbc for North Korea: URL can't contain control characters. '/rss/search?q=North Korea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:50:18,518 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for North Korea: object has no attribute 'description'
+2025-03-13 02:50:30,905 - INFO - Fetched 29 posts for North Korea from all sources
+2025-03-13 02:51:06,669 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Nigeria: object has no attribute 'description'
+2025-03-13 02:51:19,620 - INFO - Fetched 59 posts for Nigeria from all sources
+2025-03-13 02:52:19,512 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Norway: object has no attribute 'description'
+2025-03-13 02:52:25,418 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Oman: object has no attribute 'description'
+2025-03-13 02:52:32,918 - INFO - Fetched 59 posts for Norway from all sources
+2025-03-13 02:52:39,390 - INFO - Fetched 61 posts for Oman from all sources
+2025-03-13 02:52:52,729 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Pakistan: object has no attribute 'description'
+2025-03-13 02:53:10,001 - INFO - Fetched 65 posts for Pakistan from all sources
+2025-03-13 02:53:15,277 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Palau: object has no attribute 'description'
+2025-03-13 02:53:25,574 - INFO - Fetched 58 posts for Palau from all sources
+2025-03-13 02:53:34,496 - WARNING - Error fetching news data from guardian for Papua New Guinea: URL can't contain control characters. '/rss/search?q=Papua New Guinea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:53:34,509 - WARNING - Error fetching news data from reuters for Papua New Guinea: URL can't contain control characters. '/rss/search?q=Papua New Guinea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:53:34,525 - WARNING - Error fetching news data from bbc for Papua New Guinea: URL can't contain control characters. '/rss/search?q=Papua New Guinea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:53:36,057 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Papua New Guinea: object has no attribute 'description'
+2025-03-13 02:53:46,385 - INFO - Fetched 28 posts for Papua New Guinea from all sources
+2025-03-13 02:54:50,342 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Panama: object has no attribute 'description'
+2025-03-13 02:55:00,719 - INFO - Fetched 58 posts for Panama from all sources
+2025-03-13 02:55:16,000 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Paraguay: object has no attribute 'description'
+2025-03-13 02:55:27,989 - INFO - Fetched 58 posts for Paraguay from all sources
+2025-03-13 02:55:39,006 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Peru: object has no attribute 'description'
+2025-03-13 02:55:50,149 - INFO - Fetched 58 posts for Peru from all sources
+2025-03-13 02:56:10,054 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Philippines: object has no attribute 'description'
+2025-03-13 02:56:24,869 - INFO - Fetched 63 posts for Philippines from all sources
+2025-03-13 02:57:37,605 - WARNING - Error fetching news data from guardian for Republic of Ireland: URL can't contain control characters. '/rss/search?q=Republic of Ireland+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:57:37,618 - WARNING - Error fetching news data from reuters for Republic of Ireland: URL can't contain control characters. '/rss/search?q=Republic of Ireland+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:57:37,671 - WARNING - Error fetching news data from bbc for Republic of Ireland: URL can't contain control characters. '/rss/search?q=Republic of Ireland+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:57:39,244 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Republic of Ireland: object has no attribute 'description'
+2025-03-13 02:57:43,676 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Portugal: object has no attribute 'description'
+2025-03-13 02:57:44,543 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Poland: object has no attribute 'description'
+2025-03-13 02:57:51,746 - INFO - Fetched 28 posts for Republic of Ireland from all sources
+2025-03-13 02:57:55,069 - INFO - Fetched 58 posts for Portugal from all sources
+2025-03-13 02:57:56,306 - INFO - Fetched 59 posts for Poland from all sources
+2025-03-13 02:58:34,503 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Qatar: object has no attribute 'description'
+2025-03-13 02:58:47,212 - INFO - Fetched 60 posts for Qatar from all sources
+2025-03-13 02:59:11,987 - WARNING - Error fetching news data from guardian for Republic of the Congo: URL can't contain control characters. '/rss/search?q=Republic of the Congo+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:59:12,017 - WARNING - Error fetching news data from reuters for Republic of the Congo: URL can't contain control characters. '/rss/search?q=Republic of the Congo+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:59:12,048 - WARNING - Error fetching news data from bbc for Republic of the Congo: URL can't contain control characters. '/rss/search?q=Republic of the Congo+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 02:59:13,718 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Republic of the Congo: object has no attribute 'description'
+2025-03-13 02:59:26,870 - INFO - Fetched 31 posts for Republic of the Congo from all sources
+2025-03-13 03:00:10,098 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Romania: object has no attribute 'description'
+2025-03-13 03:00:22,359 - INFO - Fetched 58 posts for Romania from all sources
+2025-03-13 03:00:47,426 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Russia: object has no attribute 'description'
+2025-03-13 03:00:54,767 - WARNING - Error fetching news data from guardian for Saint Kitts and Nevis: URL can't contain control characters. '/rss/search?q=Saint Kitts and Nevis+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:00:54,794 - WARNING - Error fetching news data from reuters for Saint Kitts and Nevis: URL can't contain control characters. '/rss/search?q=Saint Kitts and Nevis+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:00:54,819 - WARNING - Error fetching news data from bbc for Saint Kitts and Nevis: URL can't contain control characters. '/rss/search?q=Saint Kitts and Nevis+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:00:56,058 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Saint Kitts and Nevis: object has no attribute 'description'
+2025-03-13 03:01:07,907 - INFO - Fetched 28 posts for Saint Kitts and Nevis from all sources
+2025-03-13 03:01:13,794 - WARNING - Error fetching news data from guardian for Saint Lucia: URL can't contain control characters. '/rss/search?q=Saint Lucia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:01:13,815 - WARNING - Error fetching news data from reuters for Saint Lucia: URL can't contain control characters. '/rss/search?q=Saint Lucia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:01:13,845 - WARNING - Error fetching news data from bbc for Saint Lucia: URL can't contain control characters. '/rss/search?q=Saint Lucia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:01:15,442 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Saint Lucia: object has no attribute 'description'
+2025-03-13 03:01:23,599 - INFO - Fetched 77 posts for Russia from all sources
+2025-03-13 03:01:25,047 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Rwanda: object has no attribute 'description'
+2025-03-13 03:01:27,525 - INFO - Fetched 28 posts for Saint Lucia from all sources
+2025-03-13 03:01:38,553 - INFO - Fetched 59 posts for Rwanda from all sources
+2025-03-13 03:02:03,193 - WARNING - Error fetching news data from guardian for Saint Vincent and the Grenadines: URL can't contain control characters. '/rss/search?q=Saint Vincent and the Grenadines+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:02:03,219 - WARNING - Error fetching news data from reuters for Saint Vincent and the Grenadines: URL can't contain control characters. '/rss/search?q=Saint Vincent and the Grenadines+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:02:03,239 - WARNING - Error fetching news data from bbc for Saint Vincent and the Grenadines: URL can't contain control characters. '/rss/search?q=Saint Vincent and the Grenadines+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:02:04,489 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Saint Vincent and the Grenadines: object has no attribute 'description'
+2025-03-13 03:02:17,474 - INFO - Fetched 26 posts for Saint Vincent and the Grenadines from all sources
+2025-03-13 03:02:54,415 - WARNING - Error fetching news data from guardian for San Marino: URL can't contain control characters. '/rss/search?q=San Marino+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:02:54,488 - WARNING - Error fetching news data from reuters for San Marino: URL can't contain control characters. '/rss/search?q=San Marino+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:02:54,506 - WARNING - Error fetching news data from bbc for San Marino: URL can't contain control characters. '/rss/search?q=San Marino+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:02:56,112 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for San Marino: object has no attribute 'description'
+2025-03-13 03:03:07,539 - INFO - Fetched 28 posts for San Marino from all sources
+2025-03-13 03:03:27,073 - WARNING - Error fetching news data from guardian for Saudi Arabia: URL can't contain control characters. '/rss/search?q=Saudi Arabia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:03:27,095 - WARNING - Error fetching news data from reuters for Saudi Arabia: URL can't contain control characters. '/rss/search?q=Saudi Arabia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:03:27,114 - WARNING - Error fetching news data from bbc for Saudi Arabia: URL can't contain control characters. '/rss/search?q=Saudi Arabia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:03:28,626 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Saudi Arabia: object has no attribute 'description'
+2025-03-13 03:03:44,944 - INFO - Fetched 31 posts for Saudi Arabia from all sources
+2025-03-13 03:03:55,312 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Samoa: object has no attribute 'description'
+2025-03-13 03:04:08,403 - INFO - Fetched 57 posts for Samoa from all sources
+2025-03-13 03:04:40,500 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Senegal: object has no attribute 'description'
+2025-03-13 03:04:54,730 - INFO - Fetched 58 posts for Senegal from all sources
+2025-03-13 03:05:26,357 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Serbia: object has no attribute 'description'
+2025-03-13 03:05:32,299 - WARNING - Error fetching news data from guardian for Sierra Leone: URL can't contain control characters. '/rss/search?q=Sierra Leone+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:05:32,315 - WARNING - Error fetching news data from reuters for Sierra Leone: URL can't contain control characters. '/rss/search?q=Sierra Leone+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:05:32,344 - WARNING - Error fetching news data from bbc for Sierra Leone: URL can't contain control characters. '/rss/search?q=Sierra Leone+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:05:33,997 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Sierra Leone: object has no attribute 'description'
+2025-03-13 03:05:39,302 - INFO - Fetched 57 posts for Serbia from all sources
+2025-03-13 03:05:47,489 - INFO - Fetched 28 posts for Sierra Leone from all sources
+2025-03-13 03:06:04,046 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Seychelles: object has no attribute 'description'
+2025-03-13 03:06:19,393 - INFO - Fetched 58 posts for Seychelles from all sources
+2025-03-13 03:07:20,222 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Singapore: object has no attribute 'description'
+2025-03-13 03:07:27,963 - WARNING - Error fetching news data from guardian for Solomon Islands: URL can't contain control characters. '/rss/search?q=Solomon Islands+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:07:28,010 - WARNING - Error fetching news data from reuters for Solomon Islands: URL can't contain control characters. '/rss/search?q=Solomon Islands+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:07:28,031 - WARNING - Error fetching news data from bbc for Solomon Islands: URL can't contain control characters. '/rss/search?q=Solomon Islands+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:07:29,344 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Solomon Islands: object has no attribute 'description'
+2025-03-13 03:07:31,398 - INFO - Fetched 58 posts for Singapore from all sources
+2025-03-13 03:07:42,170 - INFO - Fetched 28 posts for Solomon Islands from all sources
+2025-03-13 03:07:55,644 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Slovakia: object has no attribute 'description'
+2025-03-13 03:07:58,563 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Slovenia: object has no attribute 'description'
+2025-03-13 03:08:06,972 - INFO - Fetched 58 posts for Slovakia from all sources
+2025-03-13 03:08:12,171 - INFO - Fetched 58 posts for Slovenia from all sources
+2025-03-13 03:09:27,382 - WARNING - Error fetching news data from guardian for South Africa: URL can't contain control characters. '/rss/search?q=South Africa+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:27,461 - WARNING - Error fetching news data from reuters for South Africa: URL can't contain control characters. '/rss/search?q=South Africa+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:27,535 - WARNING - Error fetching news data from bbc for South Africa: URL can't contain control characters. '/rss/search?q=South Africa+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:29,525 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for South Africa: object has no attribute 'description'
+2025-03-13 03:09:43,357 - WARNING - Error fetching news data from guardian for South Korea: URL can't contain control characters. '/rss/search?q=South Korea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:43,422 - WARNING - Error fetching news data from reuters for South Korea: URL can't contain control characters. '/rss/search?q=South Korea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:43,486 - WARNING - Error fetching news data from bbc for South Korea: URL can't contain control characters. '/rss/search?q=South Korea+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:45,327 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for South Korea: object has no attribute 'description'
+2025-03-13 03:09:46,329 - WARNING - Error fetching news data from guardian for South Sudan: URL can't contain control characters. '/rss/search?q=South Sudan+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:46,449 - WARNING - Error fetching news data from reuters for South Sudan: URL can't contain control characters. '/rss/search?q=South Sudan+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:46,537 - WARNING - Error fetching news data from bbc for South Sudan: URL can't contain control characters. '/rss/search?q=South Sudan+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:09:49,017 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for South Sudan: object has no attribute 'description'
+2025-03-13 03:09:52,425 - INFO - Fetched 30 posts for South Africa from all sources
+2025-03-13 03:10:00,361 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Somalia: object has no attribute 'description'
+2025-03-13 03:10:05,894 - INFO - Fetched 28 posts for South Sudan from all sources
+2025-03-13 03:10:10,262 - INFO - Fetched 31 posts for South Korea from all sources
+2025-03-13 03:10:17,185 - INFO - Fetched 57 posts for Somalia from all sources
+2025-03-13 03:11:32,779 - WARNING - Error fetching news data from guardian for Sri Lanka: URL can't contain control characters. '/rss/search?q=Sri Lanka+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:11:32,880 - WARNING - Error fetching news data from reuters for Sri Lanka: URL can't contain control characters. '/rss/search?q=Sri Lanka+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:11:32,960 - WARNING - Error fetching news data from bbc for Sri Lanka: URL can't contain control characters. '/rss/search?q=Sri Lanka+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:11:35,129 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Sri Lanka: object has no attribute 'description'
+2025-03-13 03:11:53,013 - INFO - Fetched 28 posts for Sri Lanka from all sources
+2025-03-13 03:12:47,032 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Suriname: object has no attribute 'description'
+2025-03-13 03:12:51,398 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Sudan: object has no attribute 'description'
+2025-03-13 03:12:54,057 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Spain: object has no attribute 'description'
+2025-03-13 03:13:07,993 - INFO - Fetched 58 posts for Suriname from all sources
+2025-03-13 03:13:20,256 - INFO - Fetched 61 posts for Sudan from all sources
+2025-03-13 03:13:22,430 - INFO - Fetched 60 posts for Spain from all sources
+2025-03-13 03:14:51,637 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Sweden: object has no attribute 'description'
+2025-03-13 03:15:08,656 - INFO - Fetched 58 posts for Sweden from all sources
+2025-03-13 03:15:55,222 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Tajikistan: object has no attribute 'description'
+2025-03-13 03:15:59,401 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Switzerland: object has no attribute 'description'
+2025-03-13 03:16:09,974 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Syria: object has no attribute 'description'
+2025-03-13 03:16:10,540 - INFO - Fetched 57 posts for Tajikistan from all sources
+2025-03-13 03:16:16,116 - INFO - Fetched 59 posts for Switzerland from all sources
+2025-03-13 03:16:26,562 - INFO - Fetched 59 posts for Syria from all sources
+2025-03-13 03:17:30,079 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Tanzania: object has no attribute 'description'
+2025-03-13 03:17:32,340 - WARNING - Error fetching news data from guardian for The Gambia: URL can't contain control characters. '/rss/search?q=The Gambia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:17:32,357 - WARNING - Error fetching news data from reuters for The Gambia: URL can't contain control characters. '/rss/search?q=The Gambia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:17:32,377 - WARNING - Error fetching news data from bbc for The Gambia: URL can't contain control characters. '/rss/search?q=The Gambia+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:17:33,644 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for The Gambia: object has no attribute 'description'
+2025-03-13 03:17:43,977 - INFO - Fetched 58 posts for Tanzania from all sources
+2025-03-13 03:17:48,520 - INFO - Fetched 29 posts for The Gambia from all sources
+2025-03-13 03:17:51,957 - WARNING - Error fetching news data from guardian for The Bahamas: URL can't contain control characters. '/rss/search?q=The Bahamas+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:17:51,976 - WARNING - Error fetching news data from reuters for The Bahamas: URL can't contain control characters. '/rss/search?q=The Bahamas+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:17:52,004 - WARNING - Error fetching news data from bbc for The Bahamas: URL can't contain control characters. '/rss/search?q=The Bahamas+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:17:53,669 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for The Bahamas: object has no attribute 'description'
+2025-03-13 03:18:07,153 - INFO - Fetched 28 posts for The Bahamas from all sources
+2025-03-13 03:18:35,631 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Thailand: object has no attribute 'description'
+2025-03-13 03:18:50,523 - INFO - Fetched 55 posts for Thailand from all sources
+2025-03-13 03:18:56,513 - WARNING - Error fetching news data from guardian for Trinidad and Tobago: URL can't contain control characters. '/rss/search?q=Trinidad and Tobago+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:18:56,549 - WARNING - Error fetching news data from reuters for Trinidad and Tobago: URL can't contain control characters. '/rss/search?q=Trinidad and Tobago+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:18:56,571 - WARNING - Error fetching news data from bbc for Trinidad and Tobago: URL can't contain control characters. '/rss/search?q=Trinidad and Tobago+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:18:58,244 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Trinidad and Tobago: object has no attribute 'description'
+2025-03-13 03:19:12,166 - INFO - Fetched 27 posts for Trinidad and Tobago from all sources
+2025-03-13 03:19:56,946 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Togo: object has no attribute 'description'
+2025-03-13 03:20:09,321 - INFO - Fetched 58 posts for Togo from all sources
+2025-03-13 03:20:10,172 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Tonga: object has no attribute 'description'
+2025-03-13 03:20:24,037 - INFO - Fetched 58 posts for Tonga from all sources
+2025-03-13 03:21:05,862 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Tunisia: object has no attribute 'description'
+2025-03-13 03:21:20,366 - INFO - Fetched 57 posts for Tunisia from all sources
+2025-03-13 03:21:56,003 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Turkey: object has no attribute 'description'
+2025-03-13 03:22:13,050 - INFO - Fetched 60 posts for Turkey from all sources
+2025-03-13 03:22:23,558 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Turkmenistan: object has no attribute 'description'
+2025-03-13 03:22:36,445 - INFO - Fetched 56 posts for Turkmenistan from all sources
+2025-03-13 03:22:52,709 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Uganda: object has no attribute 'description'
+2025-03-13 03:23:07,699 - INFO - Fetched 62 posts for Uganda from all sources
+2025-03-13 03:23:38,634 - WARNING - Error fetching news data from guardian for United Arab Emirates: URL can't contain control characters. '/rss/search?q=United Arab Emirates+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:23:38,657 - WARNING - Error fetching news data from reuters for United Arab Emirates: URL can't contain control characters. '/rss/search?q=United Arab Emirates+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:23:38,675 - WARNING - Error fetching news data from bbc for United Arab Emirates: URL can't contain control characters. '/rss/search?q=United Arab Emirates+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:23:40,224 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for United Arab Emirates: object has no attribute 'description'
+2025-03-13 03:23:53,439 - INFO - Fetched 28 posts for United Arab Emirates from all sources
+2025-03-13 03:23:59,457 - WARNING - Error fetching news data from guardian for United Kingdom: URL can't contain control characters. '/rss/search?q=United Kingdom+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:23:59,494 - WARNING - Error fetching news data from reuters for United Kingdom: URL can't contain control characters. '/rss/search?q=United Kingdom+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:23:59,522 - WARNING - Error fetching news data from bbc for United Kingdom: URL can't contain control characters. '/rss/search?q=United Kingdom+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:24:01,118 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for United Kingdom: object has no attribute 'description'
+2025-03-13 03:24:05,556 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Ukraine: object has no attribute 'description'
+2025-03-13 03:24:17,922 - INFO - Fetched 29 posts for United Kingdom from all sources
+2025-03-13 03:24:27,330 - INFO - Fetched 67 posts for Ukraine from all sources
+2025-03-13 03:24:47,894 - WARNING - Error fetching news data from guardian for United States: URL can't contain control characters. '/rss/search?q=United States+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:24:47,910 - WARNING - Error fetching news data from reuters for United States: URL can't contain control characters. '/rss/search?q=United States+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:24:47,941 - WARNING - Error fetching news data from bbc for United States: URL can't contain control characters. '/rss/search?q=United States+when:7d&hl=en-US&gl=US&ceid=US:en' (found at least ' ')
+2025-03-13 03:24:49,617 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for United States: object has no attribute 'description'
+2025-03-13 03:25:09,105 - INFO - Fetched 37 posts for United States from all sources
+2025-03-13 03:26:17,990 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Uruguay: object has no attribute 'description'
+2025-03-13 03:26:28,404 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Vanuatu: object has no attribute 'description'
+2025-03-13 03:26:31,276 - INFO - Fetched 58 posts for Uruguay from all sources
+2025-03-13 03:26:42,698 - INFO - Fetched 57 posts for Vanuatu from all sources
+2025-03-13 03:26:43,055 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Uzbekistan: object has no attribute 'description'
+2025-03-13 03:26:57,051 - INFO - Fetched 58 posts for Uzbekistan from all sources
+2025-03-13 03:27:47,314 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Venezuela: object has no attribute 'description'
+2025-03-13 03:28:01,106 - INFO - Fetched 58 posts for Venezuela from all sources
+2025-03-13 03:28:56,418 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Vietnam: object has no attribute 'description'
+2025-03-13 03:29:07,517 - INFO - Fetched 58 posts for Vietnam from all sources
+2025-03-13 03:29:11,555 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Zambia: object has no attribute 'description'
+2025-03-13 03:29:25,202 - INFO - Fetched 58 posts for Zambia from all sources
+2025-03-13 03:29:26,250 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Yemen: object has no attribute 'description'
+2025-03-13 03:29:38,248 - INFO - Fetched 58 posts for Yemen from all sources
+2025-03-13 03:30:32,056 - WARNING - Error fetching RSS feed http://rss.cnn.com/rss/cnn_world.rss for Zimbabwe: object has no attribute 'description'
+2025-03-13 03:30:48,472 - INFO - Fetched 58 posts for Zimbabwe from all sources
+2025-03-13 03:30:49,283 - INFO - Total time: 6899.32 seconds
+2025-03-13 04:13:56,921 - INFO - Total time: 336.72 seconds
