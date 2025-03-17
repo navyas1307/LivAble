@@ -13,7 +13,7 @@ def query_gemini(question):
         return f"⚠️ Error: {str(e)}"
 
 def load_data():
-    file_path = r"C:\Users\NAVYA\OneDrive\Desktop\projects\mini copy\world_data_with_scores.csv"
+    file_path = "world_data_with_scores.csv"
     data = pd.read_csv(file_path)
     st.title("Livability Prediction")
 
