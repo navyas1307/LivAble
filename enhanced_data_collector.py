@@ -25,7 +25,7 @@ USER_AGENT = 'LivabilityDashboard/1.0 (by u/your_username)'
 
 
 # File paths
-WORLD_DATA_PATH = r"C:\Users\NAVYA\OneDrive\Desktop\projects\mini project\data\world_data_with_scores (1).csv"
+WORLD_DATA_PATH = "world_data_with_scores.csv"
 OUTPUT_DIR = "collected_data"
 CACHE_DIR = "cache"
 
