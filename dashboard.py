@@ -201,7 +201,7 @@ def run_dashboard():
         df = pd.read_csv(os.path.join(data_dir, latest_file))
         
         # Load country coordinates
-        world_data = pd.read_csv(r"C:\Users\NAVYA\OneDrive\Desktop\projects\mini copy\world_data_with_scores.csv")
+        world_data = pd.read_csv("world_data_with_scores.csv")
         return df.merge(world_data[['Country', 'Latitude', 'Longitude']], 
                        left_on='country', right_on='Country', how='left')
 
